@@ -1,0 +1,1 @@
+Dir.glob("**/*_test.rb").each{ |f| require f }
